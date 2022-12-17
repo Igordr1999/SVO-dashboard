@@ -1,0 +1,9 @@
+numpy
+pandas
+plotly
+dash
+openpyxl
+requests
+dash-bootstrap-components
+scikit-learn
+catboost
